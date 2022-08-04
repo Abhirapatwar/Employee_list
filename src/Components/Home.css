@@ -1,0 +1,11 @@
+.box-1{
+    /* border: 2px solid red; */
+    height: fit-content;
+}
+.box-2{
+    /* border: 2px solid rgb(50, 236, 12); */
+    height: fit-content;
+}
+.tablepart{
+    overflow:auto;
+}
